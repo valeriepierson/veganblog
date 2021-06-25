@@ -1,5 +1,7 @@
 body {
    font-family: 'Open Sans Condensed', sans-serif;
+   background-color: lightblue;
+
 }
 
 #header {
@@ -9,6 +11,10 @@ body {
     justify-content: center;
     height: 70px;
 }
+header {
+    background-color: white;
+}
+
 h1 {
     font-size: 60px;
 
