@@ -52,5 +52,19 @@ h2, h5 {
 #lists {
     display: flex;
     flex-direction: column;
-   
+
+}
+
+#recipe {
+    color: darkgreen;
+    height: 45px;
+    width: 200px;
+    background-color: lightgray;
+    border-width: 5px;
+    border-style: dotted;
+    border-color: darkgreen;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+
 }
