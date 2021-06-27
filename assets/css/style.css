@@ -52,6 +52,7 @@ h2, h5 {
 #lists {
     display: flex;
     flex-direction: column;
+    padding: 10pc;
 
 }
 
@@ -66,5 +67,10 @@ h2, h5 {
     padding: 10px;
     text-align: center;
     margin: auto;
+
+}
+
+.instructions  {
+    font-size: larger;
 
 }
